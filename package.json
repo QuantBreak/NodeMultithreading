@@ -1,0 +1,23 @@
+{
+  "name": "nodemultithreading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cluster": "^0.7.7",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "os": "^0.1.2",
+    "workerpool": "^6.1.5"
+  },
+  "devDependencies": {
+    "autocannon": "^7.5.0"
+  }
+}
